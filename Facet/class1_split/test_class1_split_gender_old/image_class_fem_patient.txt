@@ -1,0 +1,4 @@
+sa_5099368.jpg	patient
+sa_5546114.jpg	patient
+sa_7207803.jpg	patient
+sa_6273532.jpg	patient

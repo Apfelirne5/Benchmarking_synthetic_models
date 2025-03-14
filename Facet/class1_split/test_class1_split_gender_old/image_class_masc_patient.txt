@@ -1,0 +1,8 @@
+sa_6300862.jpg	patient
+sa_10396926.jpg	patient
+sa_10746523.jpg	patient
+sa_10820528.jpg	patient
+sa_8825514.jpg	patient
+sa_9613741.jpg	patient
+sa_10522904.jpg	patient
+sa_4242411.jpg	patient
